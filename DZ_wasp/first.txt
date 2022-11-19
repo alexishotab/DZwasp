@@ -1,0 +1,103 @@
+using System;
+using System.Net;
+using System.Reflection.Metadata.Ecma335;
+
+namespace FirstProjectCSharp
+{
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+            int a = 0;4 байта
+            byte b= 255;1 байт
+            short s = 655;2 байта
+            long l = 10000000; 8 байт
+            decimal dc = 1500000000000M;16 байт не особо нужно Целое число
+
+            uint u = 123;Беззнаковый тип int
+            ushort us = 134;Беззнаковый тип short
+            ulong ul = 14356;
+
+            float f=15.5f;4 байтаю Нужно f дописывать
+            double d = 154.13; 8 байт
+
+            bool Bo= false;
+            char c = 'a';Символ в одинарных кавычках, а строка в двойных
+            string str = aaaaaaaaaa;
+            
+
+            int a = Convert.ToInt32(Console.ReadLine());
+            int b = int.Parse(Console.ReadLine());обе строки - конвертаци в интеджер. Также можно конвертировать как в С (double)
+
+            Console.Write(e+q);
+            Console.WriteLine(e +  +  + q +  =  + e + q);не особо
+            string qqq = ${q} + {e} = {q + e};f строка. 
+            Console.WriteLine(qqq);
+            Console.ReadLine();Ввод с переносом на следующую строку
+            Console.ReadKey();
+            
+            if (a  b)
+            {
+                Console.WriteLine(a);
+            }
+            else if (a == b)
+            {
+                Console.WriteLine(a + b);
+            }
+            else
+            {
+                Console.WriteLine(b);
+            }
+            if (a == b)
+                Console.WriteLine(Условие в одну строку);
+            else if (a  b)
+                Console.WriteLine(Условие в одну строку много);
+            else
+                Console.WriteLine(конец);
+
+            Console.WriteLine( (a  b)  a  b);тернарный оператор
+            
+            switch (a)
+            {
+                case 1
+                    Console.WriteLine(Понедельник);
+                    Console.WriteLine(НЕЕЕЕЕЕТ);
+                    break;
+                case 2
+                    Console.WriteLine(Вторник);
+                    break;
+                case 3
+                    Console.WriteLine(Среда);
+                    break;
+                case 4
+                    Console.WriteLine(Четверг);
+                    break;
+                default
+                    Console.WriteLine(doesnt exist);
+                    break;
+             int summ = 1;
+             while (a  0)
+             {
+                 summ = a;
+                 a--;
+             }
+             Console.WriteLine(summ);
+            int a=1
+            do
+            {
+                summ += a;
+                a = Convert.ToInt32(Console.ReadLine());
+            } while (a != 0);
+            int l=int.Parse(Console.ReadLine());
+            int r=int.Parse(Console.ReadLine());
+            int step=int.Parse(Console.ReadLine());
+            for (int i = l; i = r; i+=step);
+            {
+                if (i == 5) continue;
+                Console.WriteLine(i +  );
+            }
+            
+
+        }
+    }
+}
