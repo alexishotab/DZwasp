@@ -1,0 +1,15 @@
+D:\GitHub_rep\DZwasp\Autopark\machines\bin\Debug\net6.0\machines.exe
+D:\GitHub_rep\DZwasp\Autopark\machines\bin\Debug\net6.0\machines.deps.json
+D:\GitHub_rep\DZwasp\Autopark\machines\bin\Debug\net6.0\machines.runtimeconfig.json
+D:\GitHub_rep\DZwasp\Autopark\machines\bin\Debug\net6.0\machines.dll
+D:\GitHub_rep\DZwasp\Autopark\machines\bin\Debug\net6.0\machines.pdb
+D:\GitHub_rep\DZwasp\Autopark\machines\obj\Debug\net6.0\machines.csproj.AssemblyReference.cache
+D:\GitHub_rep\DZwasp\Autopark\machines\obj\Debug\net6.0\machines.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_rep\DZwasp\Autopark\machines\obj\Debug\net6.0\machines.AssemblyInfoInputs.cache
+D:\GitHub_rep\DZwasp\Autopark\machines\obj\Debug\net6.0\machines.AssemblyInfo.cs
+D:\GitHub_rep\DZwasp\Autopark\machines\obj\Debug\net6.0\machines.csproj.CoreCompileInputs.cache
+D:\GitHub_rep\DZwasp\Autopark\machines\obj\Debug\net6.0\machines.dll
+D:\GitHub_rep\DZwasp\Autopark\machines\obj\Debug\net6.0\refint\machines.dll
+D:\GitHub_rep\DZwasp\Autopark\machines\obj\Debug\net6.0\machines.pdb
+D:\GitHub_rep\DZwasp\Autopark\machines\obj\Debug\net6.0\machines.genruntimeconfig.cache
+D:\GitHub_rep\DZwasp\Autopark\machines\obj\Debug\net6.0\ref\machines.dll
